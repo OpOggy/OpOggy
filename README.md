@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/0c/de/97/0cde97b727b6fc2c315a9f520c8c3266.jpg)](https://codegrills.in)
+[![MasterHead](https://i.pinimg.com/736x/0c/de/97/0cde97b727b6fc2c315a9f520c8c3266.jpg/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm OggyNotOp</h1>
 <h3 align="center">A passionate Discord Bot dev from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif">
