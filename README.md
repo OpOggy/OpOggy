@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm OggyNotOp</h1>
 <h3 align="center">A passionate Discord Bot dev from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/KJ-Xbk8_ZwAAAAAC/batman-sad.gif">
+<a href="https://discord.com/users/732237329397317744" target="_blank" >
+    <img align ="left" alt="OggyNotOp's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OpOggy&label=Profile%20views&color=0e75b6&style=flat" alt="OpOggy" /> </p>
 
@@ -14,9 +17,9 @@
 <a href="https://discord.gg/pPCCRRyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pPCCRRyk" height="30" width="40" /></a>
 </p>
 
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/7732237329397317744.png) -->
-<a href="https://discord.com/users/725945760629129277">
-<img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
+<!-- ![Discord](https://discord.c99.nl/widget/theme-2/732237329397317744.png) -->
+<a href="https://discord.com/users/732237329397317744">
+<img src="https://discord.c99.nl/widget/theme-2/732237329397317744.png" alt="Discord"/>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
