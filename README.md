@@ -1,9 +1,9 @@
 [![MasterHead](https://i.pinimg.com/736x/0c/de/97/0cde97b727b6fc2c315a9f520c8c3266.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm OggyNotOp</h1>
 <h3 align="center">A passionate Discord Bot dev from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/sWQwKN-b5voAAAAC/hacked-you-have-been-hacked.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PhysicalIcyCoral-mobile.mp4">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oggyop&label=Profile%20views&color=0e75b6&style=flat" alt="oggyop" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OpOggy&label=Profile%20views&color=0e75b6&style=flat" alt="OpOggy" /> </p>
 
 - 📫 How to reach me **dheerajpradeep10@gmail.com**
 
